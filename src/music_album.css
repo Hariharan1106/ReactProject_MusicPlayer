@@ -1,0 +1,17 @@
+
+.musicbody
+{
+    padding: 20px 10px 10px 20px;
+    font-size: smaller;
+}
+
+
+.movie-title
+{
+    font-weight: bolder;
+    font-stretch: ultra-expanded;
+    color: chocolate;
+    text-overflow: clip;
+    text-wrap: pretty;
+    text-size-adjust: inherit;
+}

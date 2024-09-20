@@ -1,0 +1,243 @@
+[
+    {
+        "SongName" : "Mudhal nee Mudivum nee",
+        "MovieName" : "Mudhal nee Mudivum nee",
+        "Artists" : "Darbuka Siva, Sid Sriram",
+        "Year"  : "2021",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/1.jpg",
+        "SongUrl" : "./songs/1.mp3"
+
+    },
+    {
+        "SongName" : "Bodhai Kaname",
+        "MovieName" : "Oh Manapenne!",
+        "Artists" : "Shashaa Tirupati, Vishal Chandrasekhar, Anirudh Ravichander",
+        "Year"  : "2021",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/2.jpg",
+        "SongUrl" : "./songs/2.mp3"
+
+    },
+    {
+        "SongName" : "Kadhaippoma",
+        "MovieName" : "Oh My Kadavule",
+        "Artists" : "Leon James, Sid Sriram",
+        "Year"  : "2020",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/3.jpg",
+        "SongUrl" : "./songs/3.mp3"
+    },
+    {
+        "SongName" : "Rasaali",
+        "MovieName" : "Achcham Yenbadhu Madamaiyada",
+        "Artists" : "Sathyaprakash, Shashaa Tirupati, A. R. Rahman",
+        "Year"  : "2016",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/4.jpg",
+        "SongUrl" : "./songs/4.mp3"
+
+    },
+    {
+        "SongName" : "Visiri",
+        "MovieName" : "Enai Noki Paayum Thota",
+        "Artists" : " Darbuka Siva, Shashaa Tirupati, Sid Sriram",
+        "Year"  : "2019",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/5.jpg",
+        "SongUrl" : "./songs/5.mp3"
+    },
+    {
+        "SongName" : "Kaadhal En Kaviye",
+        "MovieName" : "Salmon 3D",
+        "Artists" : "Sid Sriram, Sreejith Edavana",
+        "Year"  : "2021",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/6.jpg",
+        "SongUrl" : "./songs/6.mp3"
+
+    },
+    {
+        "SongName" : "Manipaaya",
+        "MovieName" : "Vinnathaandi Varuvaayaa",
+        "Artists" : "A.R. Rahman,Shreya Ghoshal",
+        "Year"  : "2013",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/7.jpg",
+        "SongUrl" : "./songs/7.mp3"
+
+    },
+    {
+        "SongName" : "Vinmeen",
+        "MovieName" : "Thegidi",
+        "Artists" : "Abhay Jodhpurkar, Saindhavi",
+        "Year"  : "2014",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/8.jpg",
+        "SongUrl" : "./songs/8.mp3"
+
+    },
+    {
+        "SongName" : "Hukum",
+        "MovieName" : "Jailer",
+        "Artists" : "Anirudh Ravichander, Dinker Kalvala, Bhaskarabhatla Ravi Kumar",
+        "Year"  : "2023",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/9.jpg",
+        "SongUrl" : "./songs/9.mp3"
+
+    },
+    {
+        "SongName" : "Nee Kavithaigala",
+        "MovieName" : "Maragadha Naanayam",
+        "Artists" : "Pradeep Kumar",
+        "Year"  : "2017",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/10.jpg",
+        "SongUrl" : "./songs/10.mp3"
+
+    },
+    {
+        "SongName" : "Edho solla",
+        "MovieName" : "Murungakkai Chips",
+        "Artists" : "Dharan Kumar, Sid Sriram",
+        "Year"  : "2020",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/11.jpg",
+        "SongUrl" : "./songs/11.mp3"
+    },
+    {
+        "SongName" : "Pularaadha",
+        "MovieName" : "Dear Comrade",
+        "Artists" : "Aishwarya Ravichandran, Sid Sriram",
+        "Year"  : "2019",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/12.jpg",
+        "SongUrl" : "./songs/12.mp3"
+
+    },
+    {
+        "SongName" : "Pouraadalaam",
+        "MovieName" : "M.S. Dhoni: The Untold Story",
+        "Artists" : "Armaan Malik",
+        "Year"  : "2016",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/13.jpg",
+        "SongUrl" : "./songs/13.mp3"
+
+    },
+    {
+        "SongName" : "Konjam",
+        "MovieName" : "M.S. Dhoni: The Untold Story",
+        "Artists" : "Armaan Malik",
+        "Year"  : "2016",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/14.jpg",
+        "SongUrl" : "./songs/14.mp3"
+
+    },
+    {
+        "SongName" : "Oru Naalaikkul",
+        "MovieName" : "Yaaradi Nee Mohini",
+        "Artists" : " Rita, Yuvan Shankar Raja, Karthik",
+        "Year"  : "2008",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/15.jpg",
+        "SongUrl" : "./songs/15.mp3"
+
+    },
+    {
+        "SongName" : "Yeno Yeno Panithuli",
+        "MovieName" : "Aadhavan",
+        "Artists" : "Harris Jayaraj",
+        "Year"  : " 2009",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/16.jpg",
+        "SongUrl" : "./songs/16.mp3"
+
+    },
+    {
+        "SongName" : "Sevatha Pulla",
+        "MovieName" : "Theeran Adhigaaram Ondru",
+        "Artists" : "Ranjith, Ghibran",
+        "Year"  : "2017",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/17.jpg",
+        "SongUrl" : "./songs/17.mp3"
+
+    },
+    {
+        "SongName" : "Naan Nee",
+        "MovieName" : "Madras",
+        "Artists" : " Dhee, Santhosh Narayanan, and Shakthisree Gopalan",
+        "Year"  : "2014",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/18.jpg",
+        "SongUrl" : "./songs/18.mp3"
+
+    },
+    {
+        "SongName" : "Anbil Avan",
+        "MovieName" : "Vinnaithaandi Varuvaayaa",
+        "Artists" : "Devan Ekambaram, Chinmayi, A. R. Rahman",
+        "Year"  : "2014",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/19.jpg",
+        "SongUrl" : "./songs/19.mp3"
+
+    },
+    {
+        "SongName" : "maruvaarthai",
+        "MovieName" : "Enai Noki Paayum Thota",
+        "Artists" : "Darbuka Siva, Sid Sriram",
+        "Year"  : "2019",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/20.jpg",
+        "SongUrl" : "./songs/20.mp3"
+    },
+    {
+        "SongName" : "Mazhai Vara Pogudhae",
+        "MovieName" : "Yennai Arindhaal",
+        "Artists" : "Karthik, Emcee Jesz, Harris Jayaraj",
+        "Year"  : "2015",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/21.jpg",
+        "SongUrl" : "./songs/21.mp3"
+    },
+    {
+        "SongName" : "Kannave Kannave",
+        "MovieName" : "Sketch",
+        "Artists" : "Vikram",
+        "Year"  : "2018",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/22.jpg",
+        "SongUrl" : "./songs/22.mp3"
+    },
+    {
+        "SongName" : "Thuli Thuli Mazhaiyaai",
+        "MovieName" : "Paiyaa",
+        "Artists" : "Yuvan Shankar Raja, Tanvi Shah, Haricharan",
+        "Year"  : "2016",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/23.jpg",
+        "SongUrl" : "./songs/23.mp3"
+    },
+    {
+        "SongName" : "Kurumugil",
+        "MovieName" : "Sita Raman",
+        "Artists" : "Sai Vignesh, Vishal Chandrasekhar",
+        "Year"  : "2022",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/24.jpg",
+        "SongUrl" : "./songs/24.mp3"
+    },
+    {
+        "SongName" : "Ennamo Yeadho",
+        "MovieName" : "Ko",
+        "Artists" : "Harris Jayaraj, Aalap Raju, Prashanthini, Emcee Jesz, Sri Charan",
+        "Year"  : "2014",
+        "Genre" : "Indian Film Pop",
+        "ImageUrl" : "../images/25.jpg",
+        "SongUrl" : "./songs/25.mp3"
+    }
+]
